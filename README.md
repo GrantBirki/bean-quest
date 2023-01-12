@@ -1,6 +1,6 @@
 # Bean Quest 🎵
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f64102bc-a081-4779-9200-2e683dc31f62/deploy-status)](https://app.netlify.com/sites/incomparable-palmier-3b8ef3/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2b598fdc-7c65-43ee-ad19-1e3f6d82a60d/deploy-status)](https://app.netlify.com/sites/phenomenal-quokka-fbc052/deploys)
 
 The public [bean-quest.birki.io](https://bean-quest.birki.io) website and source code
 
