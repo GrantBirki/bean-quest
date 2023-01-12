@@ -2,7 +2,7 @@
 publishDate: 'Dec 10 2022'
 title: 'Bean Quest 1.0'
 description: 'The very first Bean Quest event'
-image: '~/assets/images/hero.jpg'
+image: '~/assets/images/bean-quest-1.jpg'
 ---
 
 ## Bean Quest 1.0

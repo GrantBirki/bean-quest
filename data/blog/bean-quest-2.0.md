@@ -1,7 +1,7 @@
 ---
 publishDate: 'Jan 11 2023'
 title: 'Bean Quest 2.0'
-description: 'The second Bean Quest event'
+description: 'The second Bean Quest event - January 28, 2023'
 image: '~/assets/images/hero.jpg'
 ---
 
