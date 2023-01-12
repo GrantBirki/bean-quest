@@ -2,44 +2,44 @@
     "title": "Bean Quest",
     "description": "Information about Bean Quest events",
     "github": "https://github.com/GrantBirki/bean-quest",
-    "missionHeader": "Mission:",
-    "mission": "Protect and conserve the environment, as well as support vulnerable populations",
-    "missionMiniText": "Mission Goals",
-    "missionMainText": "What are the Goals of the Foundation?",
-    "missionSubText": "The following areas are the main goals of the Foundation and our primary focus.",
+    "missionHeader": "About:",
+    "mission": "Bean Quest is a local electronic DJ event at the Vision Quest Brewery in Boulder, CO",
+    "missionMiniText": "About",
+    "missionMainText": "What is the Bean Quest?",
+    "missionSubText": "Information about Bean Quest events",
     "missionGoals": [
         [
             {
-                "title": "The Environment",
-                "description": "Environmental sustainability and conservation is a key focus of the Foundation. We are committed to protecting the environment and the planet for future generations.",
-                "icon": "tabler:plant"
+                "title": "Live Electronic DJs",
+                "description": "Bean Quest features several live (and local) electronic DJs from Boulder and Denver.",
+                "icon": "tabler:music"
             },
             {
-                "title": "Education",
-                "description": "Education is a key focus of the Foundation. We are committed to providing education to those who need it most.",
-                "icon": "tabler:book"
+                "title": "Beer",
+                "description": "Bean Quest takes place at the Vision Quest brewery in Boulder, CO. There is a great selection of beer to choose from!",
+                "icon": "tabler:beer"
             },
             {
-                "title": "Vulnerable Populations",
-                "description": "Vulnerable populations often go without the basic necessities of life. We are committed to providing support to those who need it most.",
-                "icon": "tabler:heart"
+                "title": "Dancing",
+                "description": "Dance all you want at Bean Quest! There is plenty of room to dance and enjoy the music.",
+                "icon": "tabler:hand-rock"
             }
         ],
         [
             {
-                "title": "Peace and Justice",
-                "description": "Peace and justice are key to a healthy society. We are committed to promoting peace and justice in our communities.",
-                "icon": "tabler:peace"
+                "title": "Free",
+                "description": "This event is 100% free to attend. No cover charge, no ticket required. Just show up and enjoy the music - oh and buy beer!",
+                "icon": "tabler:free-rights"
             },
             {
-                "title": "XYZ",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.",
-                "icon": "tabler:arrows-right-left"
+                "title": "Friends",
+                "description": "This is a community event made by friends, for friends. Bring your friends and make new ones too!",
+                "icon": "tabler:friends"
             },
             {
-                "title": "ABC",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.",
-                "icon": "tabler:bulb"
+                "title": "Lights and Action",
+                "description": "Lights, camera, action! We have lights, a fog machine, and all the works to make it more fun!",
+                "icon": "tabler:confetti"
             }
         ]
     ],
@@ -49,8 +49,8 @@
         "astrowind-template-in-depth",
         "how-to-customize-astrowind-to-your-brand"
     ],
-    "contactDescription": "Contact information for the Caragol Foundation",
-    "contactInformation": "The best way to get in contact with us is via email: <insert email here>",
+    "contactDescription": "Contact information for the Bean Quest Events",
+    "contactInformation": "The best way to get in contact with us is via email: bean-quest@birki.io",
     "stepsHeader": "How we Operate",
     "steps": [
         {
