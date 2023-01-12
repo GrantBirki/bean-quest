@@ -16,3 +16,11 @@ Vision Quest - 2510 47th St Suite A2, Boulder, CO 80301
 ### Time ⏰
 
 7pm - 12am
+
+### Tickets 🎟
+
+No tickets are required and the event is 100% free to attend.
+
+### Age 🍺
+
+This venue is 21+ since there is beer available for purchase.
