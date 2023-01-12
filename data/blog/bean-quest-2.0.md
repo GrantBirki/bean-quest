@@ -27,4 +27,4 @@ This venue is 21+ since there is beer available for purchase.
 
 ### Poster 🎨
 
-![Bean Quest 2.0 Poster](@astroimage/assets/images/bean-quest-2-poster.png)
+![Bean Quest 2.0 Poster](https://raw.githubusercontent.com/GrantBirki/bean-quest/60fc6460fc02db9cd4adc792166f82a6750e247d/src/assets/images/bean-quest-2-poster.png)
