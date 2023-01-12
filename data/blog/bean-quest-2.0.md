@@ -2,7 +2,7 @@
 publishDate: 'Jan 11 2023'
 title: 'Bean Quest 2.0'
 description: 'The second Bean Quest event - January 28, 2023'
-image: '~/assets/images/hero.jpg'
+image: '~/assets/images/bean-quest-2-poster.png'
 ---
 
 ## Bean Quest 2.0
@@ -24,3 +24,7 @@ No tickets are required and the event is 100% free to attend.
 ### Age 🍺
 
 This venue is 21+ since there is beer available for purchase.
+
+### Poster 🎨
+
+![Bean Quest 2.0 Poster](@astroimage/assets/images/bean-quest-2-poster.png)
