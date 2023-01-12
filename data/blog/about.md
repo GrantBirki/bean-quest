@@ -20,4 +20,4 @@ Vision Quest - 2510 47th St Suite A2, Boulder, CO 80301
 
 The next Bean Quest event will be held on Saturday January 28, 2023 at Vision Quest Brewery in Boulder, CO.
 
-For more details, checkout this the [event page](~/bean-quest-2).
+For more details, checkout this the [event page](https://bean-quest.birki.io/bean-quest-2/).
